@@ -1,0 +1,17 @@
+{
+  "SignIn": "Đăng nhập",
+  "SignUp": "Đăng ký",
+  "Email": "Email",
+  "Password": "Mật khẩu",
+  "HelloThere": "Xin chào",
+  "PleaseEnterYour": "Vui lòng nhập tên người dùng và mật khẩu của bạn để đăng nhập.",
+  "Username": "Tên người dùng",
+  "RememberMe": "Ghi nhớ",
+  "ForgotPassword": "Quên mật khẩu",
+  "orContinueWith": "hoặc tiếp tục với",
+  "ThisIsRequired": "Không để trống mục này",
+  "passwordHasAt": "Mật khẩu có ít nhất 8 ký tự",
+  "SignInFailed": "Đăng nhập thất bại",
+  "UsernameOrEmail": "Tên đăng nhập hoặc email không đúng",
+  "Agree": "Đồng ý"
+}

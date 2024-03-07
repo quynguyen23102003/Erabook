@@ -1,0 +1,75 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@assets": [
+        "assets"
+      ],
+      "@navigator": [
+        "navigator"
+      ],
+      "@components": [
+        "components"
+      ],
+      "@themes": [
+        "themes"
+      ],
+      "@redux": [
+        "redux"
+      ],
+      "@screens": [
+        "screens"
+      ],
+      "@types": [
+        "types"
+      ],
+      "@utils": [
+        "utils"
+      ],
+      "@services": [
+        "services"
+      ],
+      "@hooks": [
+        "hooks"
+      ],
+      "@translations": [
+        "translations"
+      ],
+      "@assets/*": [
+        "assets/*"
+      ],
+      "@navigator/*": [
+        "navigator/*"
+      ],
+      "@components/*": [
+        "components/*"
+      ],
+      "@themes/*": [
+        "themes/*"
+      ],
+      "@redux/*": [
+        "redux/*"
+      ],
+      "@screens/*": [
+        "screens/*"
+      ],
+      "@types/*": [
+        "types/*"
+      ],
+      "@utils/*": [
+        "utils/*"
+      ],
+      "@services/*": [
+        "services/*"
+      ],
+      "@hooks/*": [
+        "hooks/*"
+      ],
+      "@translations/*": [
+        "translations/*"
+      ]
+    }
+  }
+}

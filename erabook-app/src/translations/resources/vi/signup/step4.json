@@ -1,0 +1,14 @@
+{
+  "thisIsRequired": "Không để trống",
+  "theBirthdayIs": "Ngày sinh không đúng định dạng",
+  "cameraNotAvailable": "Máy ảnh không có sẵn trên thiết bị",
+  "permissionNotSatisfied": "Quyền không được đáp ứng",
+  "completeYourProfile": "Hoàn thành hồ sơ của bạn",
+  "don'tWorryOnly": "Đừng lo lắng, chỉ bạn mới có thể xem dữ liệu cá nhân của mình. Không ai khác sẽ có thể nhìn thấy nó.",
+  "fullName": "Họ và tên",
+  "phoneNumber": "Số điện thoại",
+  "thePhoneNumber": "Số điện thoại không đúng định dạng",
+  "dateOfBirth": "Ngày sinh",
+  "country": "Quốc gia",
+  "continue": "Tiếp tục"
+}

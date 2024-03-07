@@ -1,0 +1,17 @@
+{
+  "yourAccountHas": "Tài khoản của bạn đã được tạo. Vui lòng đợi một lát, chúng tôi đang chuẩn bị cho bạn",
+  "signUpSuccessful": "Đăng ký thành công",
+  "createAnAccount": "Tạo một tài khoản",
+  "enterYourUsername": "Nhập tên người dùng, email và mật khẩu của bạn. Nếu bạn quên nó thì bạn phải thực hiện quên mật khẩu.",
+  "username": "Tên đăng nhập",
+  "thisIsRequired": "Không để trống.",
+  "emailIsNot": "Email không đúng định dạng",
+  "password": "Mật khẩu",
+  "passwordHasAt": "Mật khẩu có ít nhất 8 ký tự",
+  "confirmPassword": "Xác nhận mật khẩu",
+  "passwordIsNot": "Mật khẩu không khớp",
+  "signUp": "Đăng ký",
+  "UsernameOrEmail": "Tên đăng nhập hoặc email đã tồn tại",
+  "SignUpFailed": " Đăng ký thất bại!",
+  "Agree": "Đồng ý"
+}

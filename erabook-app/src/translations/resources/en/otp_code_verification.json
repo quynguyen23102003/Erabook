@@ -1,0 +1,11 @@
+{
+  "YouGotEmail": "You've Got Email",
+  "WeHaveSend": "We have send the OTP verification code to your email address. The code will be valid within 15 minutes, check your email and enter the code below.",
+  "DidntRecieveEmail": "Didn't receive email?",
+  "YouCanSend": "You can send code in",
+  "Second": "second",
+  "Confirm": "Confirm",
+  "ValidateError": "Validate Error",
+  "OTPCodeIs": "OTP code is incorrect",
+  "Agree": "Agree"
+}

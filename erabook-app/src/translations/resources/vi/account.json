@@ -1,0 +1,21 @@
+{
+  "Account": "Tài khoản",
+  "PaymentMethods": "Phương thức thanh toán",
+  "PersonalInfo": "Thông tin cá nhân",
+  "Notification": "Thông báo",
+  "Preferences": "Tùy chọn",
+  "Security": "Bảo mật",
+  "Language": "Ngôn ngữ",
+  "DarkMode": "Giao diện",
+  "HelpCenter": "Trung tâm trợ giúp",
+  "AboutErabook": "Giới thiệu về Erabook",
+  "Logout": "Đăng xuất",
+  "Dark": "Tối",
+  "Light": "Sáng",
+  "SystemDefault": "Theo hệ thống",
+  "ChangePassword": "Đổi mật khẩu",
+  "Update Info": "Cập nhật thông tin",
+  "AddPaymentMethods": "Thêm mới",
+  "Are you sure want to logout?": "Bạn có chắc chắn muốn đăng xuất không?",
+  "Cancel": "Hủy"
+}

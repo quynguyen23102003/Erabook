@@ -1,0 +1,11 @@
+{
+  "YouGotEmail": "Xác nhận Email",
+  "WeHaveSend": "Chúng tôi đã gửi mã xác minh OTP đến địa chỉ email của bạn. Mã sẽ có hiệu lực trong vòng 15 phút, kiểm tra email của bạn và nhập mã bên dưới.",
+  "DidntRecieveEmail": "Không nhận được email?",
+  "YouCanSend": "Bạn có thể gửi mã trong",
+  "Second": "giây",
+  "Confirm": "Xác nhận",
+  "ValidateError": "Xác thực thất bại",
+  "OTPCodeIs": "Mã OTP không chính xác",
+  "Agree": "Đồng ý"
+}

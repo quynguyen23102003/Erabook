@@ -1,0 +1,17 @@
+{
+  "yourAccountHas": "Your account has been created. Please wait a moment, we are preparing for you",
+  "signUpSuccessful": "Sign Up Successful",
+  "createAnAccount": "Create an Account",
+  "enterYourUsername": "Enter your username, email and password. If you forget it, then you have to do forgot password.",
+  "username": "Username",
+  "thisIsRequired": "This is required.",
+  "emailIsNot": "Email is not in the correct format",
+  "password": "Password",
+  "passwordHasAt": "Password has at least 8 characters",
+  "confirmPassword": "Confirm Password",
+  "passwordIsNot": "Password is not match",
+  "signUp": "Sign Up",
+  "UsernameOrEmail": "Username or Email address is already taken",
+  "SignUpFailed": "Sign Up failed!",
+  "Agree": "Agree"
+}

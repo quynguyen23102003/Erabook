@@ -1,0 +1,14 @@
+{
+  "thisIsRequired": "This is required",
+  "theBirthdayIs": "The birthday is not in the correct format",
+  "cameraNotAvailable": "Camera not available on device",
+  "permissionNotSatisfied": "Permission not satisfied",
+  "completeYourProfile": "Complete Your Profile",
+  "don'tWorryOnly": "Don't worry, only you can see your personal data. No one else will be able to see it.",
+  "fullName": "Full Name",
+  "phoneNumber": "Phone Number",
+  "thePhoneNumber": "The phone number is not in the correct format",
+  "dateOfBirth": "Date of Birth",
+  "country": "Country",
+  "continue": "Continue"
+}

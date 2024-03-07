@@ -1,0 +1,17 @@
+{
+  "SignIn": "Sign In",
+  "SignUp": "Sign Up",
+  "Email": "Email",
+  "Password": "Password",
+  "HelloThere": "Hello There",
+  "PleaseEnterYour": "Please enter your username and password to sign in.",
+  "Username": "Username",
+  "RememberMe": "Remember Me",
+  "ForgotPassword": "Forgot Password",
+  "orContinueWith": "or continue with",
+  "ThisIsRequired": "This is required",
+  "passwordHasAt": "Password has at least 8 characters",
+  "SignInFailed": "Sign In failed!",
+  "UsernameOrEmail": "Username or email is incorrect",
+  "Agree": "Agree"
+}

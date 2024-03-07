@@ -1,0 +1,21 @@
+{
+  "Account": "Account",
+  "PaymentMethods": "Payment Methods",
+  "PersonalInfo": "Personal Info",
+  "Notification": "Notification",
+  "Preferences": "Preferences",
+  "Security": "Security",
+  "Language": "Language",
+  "DarkMode": "Theme",
+  "HelpCenter": "Help Center",
+  "AboutErabook": "About Erabook",
+  "Logout": "Logout",
+  "Dark": "Dark",
+  "Light": "Light",
+  "SystemDefault": "System Default",
+  "ChangePassword": "Change Password",
+  "Update Info": "Update Info",
+  "AddPaymentMethods": "Add New",
+  "Are you sure want to logout?": "Are you sure want to logout?",
+  "Cancel": "Cancel"
+}
